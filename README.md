@@ -1,6 +1,6 @@
 # Admin-Dashboard
 
-A dasboardd where users can navigate through the left side bar, has an option to search at the top, displays projects on the main board, some quick actions just above it and can also see the stuffs that is trending on the site.
+A dashboard where users can navigate through the left side bar, has an option to search at the top, displays projects on the main board, some quick actions just above it and can also see the stuffs that is trending on the site.
 
 ## Color palette
 
