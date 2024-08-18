@@ -4,6 +4,5 @@ A dashboard where users can navigate through the left side bar, has an option to
 
 ## Color palette
 
-might be
-
 - https://coolors.co/6a0611-a81a33-f7ebd9-032944-6a95b8
+
